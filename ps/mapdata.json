@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Arnhem Range",
+    "url": "/maps/arnhem/{z}_{x}_{y}.jpg",
+    "bounds": [756, 756]
+  },
+  {
+    "name": "Arnhem Lane 1",
+    "url": "/maps/arnhemlane/{z}_{x}_{y}.jpg",
+    "bounds": [4000, 4000]
+  },
+  {
+    "name": "Best",
+    "url": "/maps/best/{z}_{x}_{y}.jpg",
+    "bounds": [2000, 2000]
+  },
+  {
+    "name": "Carentan",
+    "url": "/maps/carentan/{z}_{x}_{y}.jpg",
+    "bounds": [2300,2300]
+  },
+  {
+    "name": "Dinant",
+    "url": "/maps/dinant/{z}_{x}_{y}.jpg",
+    "bounds": [2295,2295]
+  },
+  {
+    "name": "Doorwerth",
+    "url": "/maps/doorwerth/{z}_{x}_{y}.jpg",
+    "bounds": [4036, 4036]
+  },
+  {
+    "name": "Driel",
+    "url": "/maps/driel/{z}_{x}_{y}.jpg",
+    "bounds": [4915, 4892]
+  },
+  {
+    "name": "Grave",
+    "url": "/maps/grave/{z}_{x}_{y}.jpg",
+    "bounds": [3060, 3060]
+  },
+  {
+    "name": "Heelsum",
+    "url": "/maps/heelsum/{z}_{x}_{y}.jpg",
+    "bounds": [5611, 5611]
+  },
+  {
+    "name": "Oosterbeek",
+    "url": "/maps/johanna/{z}_{x}_{y}.jpg",
+    "bounds": [4525, 4508]
+  },
+  {
+    "name": "St Mere Eglise",
+    "url": "/maps/stmereeglise/{z}_{x}_{y}.jpg",
+    "bounds": [3300, 3300]
+  },
+  {
+    "name": "Stonne",
+    "url": "/maps/stonne/{z}_{x}_{y}.jpg",
+    "bounds": [3300, 3300]
+  },
+  {
+    "name": "Utah",
+    "url": "/maps/utah/{z}_{x}_{y}.jpg",
+    "bounds": [3000, 3000]
+  },
+  {
+    "name": "Veghel",
+    "url": "/maps/veghel/{z}_{x}_{y}.jpg",
+    "bounds": [3060, 3060]
+  },
+  {
+    "name": "Velmolen",
+    "url": "/maps/velmolen/{z}_{x}_{y}.jpg",
+    "bounds": [2200, 2200]
+  }
+]
